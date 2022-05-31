@@ -5,7 +5,7 @@
 
 ### This is me
 - An Frond end developer.
-- A nature and specially cat lover.
+- A cat lover.
 - Currently working on some of my cool side projects based on Web Development and Machine Learning.
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
