@@ -13,22 +13,12 @@
 <details align="center">
     <summary><b>These are some of my stats 😲</b><br></summary>
     <div>
-        <b>
-            <h3>My Stats</h3>
-                  <a href="https://github.com/camilord-end">
-                  <img alt="gauravghongde's github stats" src="https://github-readme-stats.shettykaran21.vercel.app/api?username=camilord-end&show_icons=true&hide_border=true&title_color=79b8ff&bg_color=24292e&text_color=79b8ff&hide=stars,contribs"/>
-                  </a>
-               </b>
-            </div>
-            <div>
-               <b>
-                  <h3>My Top Languajes</h3>
-                  <a href="https://github.com/camilord-end">
-                    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilord-end&show_icons=true&hide_border=true&title_color=79b8ff&bg_color=24292e&text_color=79b8ff" />
-                  </a>
-               </b>
-            </div>
-      </details>
+        <a href="https://github.com/camilord-end">
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilord-end&show_icons=true&hide_border=true&title_color=79b8ff&bg_color=24292e&text_color=79b8ff" />
+        </a>
+        </b>
+    </div>
+</details>
 
 ### Tech & Tools Preference
 
