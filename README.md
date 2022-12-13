@@ -6,8 +6,6 @@
   </a>
 </div>
 <div align ="center" id="badges">
-
-### About Me 
   
  I'm a web developer, specialized on React, always learning and eager to find new ways to solve problems.
 </div>
