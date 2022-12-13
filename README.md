@@ -4,20 +4,16 @@
   <a href="https://www.linkedin.com/in/julian-camilo-orozco/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/camilorozco">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://camilord-end.vercel.app/">
-    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
-  </a>
 </div>
 <div align ="center" id="badges">
 
-#### About Me 
+### About Me 
   
  I'm a web developer, specialized on React, always learning and eager to find new ways to solve problems.
 </div>
 <div align="center">
+
+---
 
 <div id='repos' align='center'>
 
@@ -29,7 +25,7 @@
   
 ---
 
-#### :hammer_and_wrench: Languages and Tools :hammer_and_wrench: 
+### :hammer_and_wrench: Languages and Tools :hammer_and_wrench: 
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
@@ -46,7 +42,7 @@
   
 ---
 
-#### :fire: Stats :fire: 
+### :fire: Stats :fire: 
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=camilord-end&theme=nightowl&border_radius=5&mode=weekly)](https://git.io/streak-stats)
   
