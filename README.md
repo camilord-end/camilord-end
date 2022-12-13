@@ -12,19 +12,24 @@
   </a>
 </div>
 <div align ="center" id="badges">
----
 
-### About Me :
+#### About Me 
   
  I'm a web developer, specialized on React, always learning and eager to find new ways to solve problems.
- 
 </div>
-
 <div align="center">
+
+<div id='repos' align='center'>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=camilord-end&repo=catblog-cms&theme=nightowl)](https://github.com/camilord-end/catblog-cms)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=camilord-end&repo=countries&theme=nightowl)](https://github.com/camilord-end/countries)
+
+</div>
   
 ---
 
-### :hammer_and_wrench: Languages and Tools :hammer_and_wrench: :
+#### :hammer_and_wrench: Languages and Tools :hammer_and_wrench: 
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
@@ -41,7 +46,7 @@
   
 ---
 
-### :fire: Stats :fire: :  
+#### :fire: Stats :fire: 
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=camilord-end&theme=nightowl&border_radius=5&mode=weekly)](https://git.io/streak-stats)
   
