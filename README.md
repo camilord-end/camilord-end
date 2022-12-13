@@ -43,9 +43,8 @@
 
 ### :fire: Stats :fire: :  
   
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=camilord-end&theme=github_dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=camilord-end&theme=nightowl&border_radius=5&mode=weekly)](https://git.io/streak-stats)
   
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camilord-end&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camilord-end&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats) 
 
 </div>
