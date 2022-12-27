@@ -15,6 +15,8 @@
 
 <div id='repos' align='center'>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=camilord-end&repo=wp-2&theme=nightowl)](https://github.com/camilord-end/wp-2)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=camilord-end&repo=catblog-cms&theme=nightowl)](https://github.com/camilord-end/catblog-cms)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=camilord-end&repo=countries&theme=nightowl)](https://github.com/camilord-end/countries)
